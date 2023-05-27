@@ -1,0 +1,18 @@
+get-Netadaptaer
+New-NetIPaddress -interfacealias "Ethernet" -IpAdress "198.168.1.2" -Prefixlenght "24" -Defaultgateway "192.168.1.1"
+
+Install-WindowsFeature -Name DNS -IncludeManagementTools
+Install-WindowsFeature -Name AD -IncludeManagementTools
+
+get-DnsServerZone
+#fetch Commands DNS:
+Import-Module DnsServer
+Get-command -Module DnsServer
+Get-command -Module DnsServer -Noun *Zone*
+
+
+Promoting ( No delegation , no Global domain catalog , prompt Credentials , Assign 3 folders of workJournal-SysVol-Database , 
+Import-Module ADDSDdeployement
+#Order Necessary
+Install-ADDSDomainController -NoGlobalCatalog:$false -CreateDnsDelegation:$false -Credential (Get-Credential) -CriticalReplicationOnly:$false -DatabasePath "C:\Windows\NTDS" -DomainName "annexe.lan" -InstallDns:$true -LogPath "C:\Windows\NTDS" -Norebootoncompletion:$false -SysvolPath "C:\Windows\SYSVOL" -Force:$true
+noglobal:$F;createdns:$F;Credentials;DatabaseNTDS;DomainName;InstallDns:$T;LogpathNTDS;NorebootOncompletion:$F;Sysv	olpath; -Force:$true
