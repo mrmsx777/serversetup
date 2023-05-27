@@ -16,3 +16,5 @@ Import-Module ADDSDdeployement
 #Order Necessary
 Install-ADDSDomainController -NoGlobalCatalog:$false -CreateDnsDelegation:$false -Credential (Get-Credential) -CriticalReplicationOnly:$false -DatabasePath "C:\Windows\NTDS" -DomainName "annexe.lan" -InstallDns:$true -LogPath "C:\Windows\NTDS" -Norebootoncompletion:$false -SysvolPath "C:\Windows\SYSVOL" -Force:$true
 noglobal:$F;createdns:$F;Credentials;DatabaseNTDS;DomainName;InstallDns:$T;LogpathNTDS;NorebootOncompletion:$F;Sysv	olpath; -Force:$true
+
+newchanges testing
