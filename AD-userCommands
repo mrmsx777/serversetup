@@ -1,0 +1,4 @@
+new-ADuser samname,givenname,surname,name,accpw,path(disinguishedOU)
+new-adgroup name,groupcategory,groupscope,path (DL/GL)
+Add-ADGroupMember -Identity $groupName -Members "user1","user2",..
+Set-ADUser -Identity $user -ScriptPath $scriptPath (for loop $users get-aduser filter * searchbase OU)
