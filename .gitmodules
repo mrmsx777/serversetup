@@ -1,0 +1,3 @@
+[submodule "AD-Auto"]
+	path = AD-Auto
+	url = .\\AD-Auto\\
