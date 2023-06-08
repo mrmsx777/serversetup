@@ -1,4 +1,5 @@
-AD part : https://book.hacktricks.xyz/windows-hardening/active-directory-methodology
+Registery key block Admin Tools
+block Powershell, CMD
+Block AD users from checking Forest and retreiving Domain users and group Info 
+See if LDAPsearch or domain dump gives acces to that info after -- IF NOT , Thoses tools only workin on Situation 1
 
-
-PC : https://book.hacktricks.xyz/windows-hardening/checklist-windows-privilege-escalation
