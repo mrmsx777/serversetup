@@ -1,0 +1,7 @@
+Name;Path;FullAccess;ChangeAccess;FolderEnumerationMode;CachingMode
+AFDoc$;E:\Partages\AFDoc;emicaoms\Admins du domaine;emicaoms\Utilisateurs du domaine;AccessBased;None
+AMDoc$;E:\Partages\AMDoc;emicaoms\Admins du domaine;emicaoms\Utilisateurs du domaine;AccessBased;None
+ASDoc$;E:\Partages\ASDoc;emicaoms\Admins du domaine;emicaoms\Utilisateurs du domaine;AccessBased;None
+EUDoc$;E:\Partages\EUDoc;emicaoms\Admins du domaine;emicaoms\Utilisateurs du domaine;AccessBased;None
+OCDoc$;E:\Partages\OCDoc;emicaoms\Admins du domaine;emicaoms\Utilisateurs du domaine;AccessBased;None
+PresDoc$;E:\Partages\PresDoc;emicaoms\Admins du domaine;emicaoms\Utilisateurs du domaine;AccessBased;None

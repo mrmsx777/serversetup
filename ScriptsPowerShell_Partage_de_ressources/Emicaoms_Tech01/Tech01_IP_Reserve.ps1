@@ -1,0 +1,1 @@
+﻿Get-DhcpServerv4Lease -ComputerName "sm01.emicaoms.test" -ScopeId 10.10.10.0 | Add-DhcpServerv4Reservation -IPAddress 10.10.10.230 -Name Tech01

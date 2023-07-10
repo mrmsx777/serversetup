@@ -1,0 +1,1 @@
+﻿Invoke-Command -FilePath C:\PS\Tech01_IP_Reserve.ps1 -ComputerName sm01.emicaoms.test

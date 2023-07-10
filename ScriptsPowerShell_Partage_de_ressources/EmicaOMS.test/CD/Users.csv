@@ -1,0 +1,11 @@
+DisplayName;Name;GivenName;Surname;PasswordNeverExpires;AccountPassword;Enabled;Path;SamAccountName;Type;UserPrincipalName;Server
+Edwin Dikoloti;Edwin Dikoloti;Edwin;Dikoloti;True;"q1w2e3;;";True;OU=OU_Users,OU=OU_Afrique,DC=emicaoms,DC=test;dikolotie;User;Edwin Dikoloti@emicaoms.test;CD01.emicaoms.test
+Adama Traore;Adama Traore;Adama;Traore;True;"q1w2e3;;";True;OU=OU_Users,OU=OU_Afrique,DC=emicaoms,DC=test;traorea;User;Adama Traore@emicaoms.test;CD01.emicaoms.test
+Carla Moretti;Carla Moretti;Carla;Moretti;True;"q1w2e3;;";True;OU=OU_Users,OU=OU_Ameriques,DC=emicaoms,DC=test;morettic;User;Carla Moretti@emicaoms.test;CD01.emicaoms.test
+Enrique Mancilla;Enrique Mancilla;Enrique;Mancilla;True;"q1w2e3;;";True;OU=OU_Users,OU=OU_Ameriques,DC=emicaoms,DC=test;mancillae;User;Enrique Mancilla@emicaoms.test;CD01.emicaoms.test
+Zahid Maleque;Zahid Maleque;Zahid;Maleque;True;"q1w2e3;;";True;OU=OU_Users,OU=OU_Asie,DC=emicaoms,DC=test;malequez;User;Zahid Maleque@emicaoms.test;CD01.emicaoms.test
+Bjorn Kummel;Bjorn Kummel;Bjorn;Kummel;True;"q1w2e3;;";True;OU=OU_Users,OU=OU_Europe,DC=emicaoms,DC=test;kummeleb;User;Bjorn Kummel@emicaoms.test;CD01.emicaoms.test
+Clemens Auer;Clemens Auer;Clemens;Auer;True;"q1w2e3;;";True;OU=OU_Users,OU=OU_Europe,DC=emicaoms,DC=test;auerc;User;Clemens Auer@emicaoms.test;CD01.emicaoms.test
+Caroline Edwards;Caroline Edwards;Caroline;Edwards;True;"q1w2e3;;";True;OU=OU_Users,OU=OU_Oceanie,DC=emicaoms,DC=test;edwardsc;User;Caroline Edwards@emicaoms.test;CD01.emicaoms.test
+Amelia Tuipulotu;Amelia Tuipulotu;Amelia;Tuipulotu;True;"q1w2e3;;";True;OU=OU_Users,OU=OU_Oceanie,DC=emicaoms,DC=test;tuipulotua;User;Amelia Tuipulotu@emicaoms.test;CD01.emicaoms.test
+Harsh Vardhan;Harsh Vardhan;Harsh;Vardhan;True;"q1w2e3;;";True;OU=OU_Users,OU=OU_Presidence,DC=emicaoms,DC=test;vardhanh;User;Harsh Vardhan@emicaoms.test;CD01.emicaoms.test

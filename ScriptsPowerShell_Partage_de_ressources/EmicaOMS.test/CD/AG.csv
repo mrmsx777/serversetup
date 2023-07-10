@@ -1,0 +1,11 @@
+Members;Identity
+CN=Edwin Dikoloti,OU=OU_Users,OU=OU_Afrique,DC=emicaoms,DC=test;CN=GSG_Afrique,OU=OU_Users,OU=OU_Afrique,DC=emicaoms,DC=test
+CN=Adama Traore,OU=OU_Users,OU=OU_Afrique,DC=emicaoms,DC=test;CN=GSG_Afrique,OU=OU_Users,OU=OU_Afrique,DC=emicaoms,DC=test
+CN=Carla Moretti,OU=OU_Users,OU=OU_Ameriques,DC=emicaoms,DC=test;CN=GSG_Ameriques,OU=OU_Users,OU=OU_Ameriques,DC=emicaoms,DC=test
+CN=Enrique Mancilla,OU=OU_Users,OU=OU_Ameriques,DC=emicaoms,DC=test;CN=GSG_Ameriques,OU=OU_Users,OU=OU_Ameriques,DC=emicaoms,DC=test
+CN=Zahid Maleque,OU=OU_Users,OU=OU_Asie,DC=emicaoms,DC=test;CN=GSG_Asie,OU=OU_Users,OU=OU_Asie,DC=emicaoms,DC=test
+CN=Bjorn Kummel,OU=OU_Users,OU=OU_Europe,DC=emicaoms,DC=test;CN=GSG_Europe,OU=OU_Users,OU=OU_Europe,DC=emicaoms,DC=test
+CN=Clemens Auer,OU=OU_Users,OU=OU_Europe,DC=emicaoms,DC=test;CN=GSG_Europe,OU=OU_Users,OU=OU_Europe,DC=emicaoms,DC=test
+CN=Caroline Edwards,OU=OU_Users,OU=OU_Oceanie,DC=emicaoms,DC=test;CN=GSG_Oceanie,OU=OU_Users,OU=OU_Oceanie,DC=emicaoms,DC=test
+CN=Amelia Tuipulotu,OU=OU_Users,OU=OU_Oceanie,DC=emicaoms,DC=test;CN=GSG_Oceanie,OU=OU_Users,OU=OU_Oceanie,DC=emicaoms,DC=test
+CN=Harsh Vardhan,OU=OU_Users,OU=OU_Presidence,DC=emicaoms,DC=test;CN=GSG_Presidence,OU=OU_Users,OU=OU_Presidence,DC=emicaoms,DC=test

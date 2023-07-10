@@ -1,0 +1,7 @@
+Name;GroupCategory;GroupScope;Path
+GSG_Afrique;Security;Global;OU=OU_Users,OU=OU_Afrique,DC=emicaoms,DC=test
+GSG_Ameriques;Security;Global;OU=OU_Users,OU=OU_Ameriques,DC=emicaoms,DC=test
+GSG_Asie;Security;Global;OU=OU_Users,OU=OU_Asie,DC=emicaoms,DC=test
+GSG_Europe;Security;Global;OU=OU_Users,OU=OU_Europe,DC=emicaoms,DC=test
+GSG_Oceanie;Security;Global;OU=OU_Users,OU=OU_Oceanie,DC=emicaoms,DC=test
+GSG_Presidence;Security;Global;OU=OU_Users,OU=OU_Presidence,DC=emicaoms,DC=test

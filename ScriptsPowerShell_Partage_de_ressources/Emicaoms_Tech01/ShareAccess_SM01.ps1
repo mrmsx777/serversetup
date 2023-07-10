@@ -1,0 +1,1 @@
+﻿Get-SmbShareAccess -Name AFDoc, AMDoc, ASDoc, EUDoc, PresDoc | FL
