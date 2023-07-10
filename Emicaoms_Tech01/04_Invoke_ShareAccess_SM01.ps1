@@ -1,0 +1,1 @@
+﻿Invoke-Command -FilePath C:\PS\ShareAccess_SM01.ps1 -ComputerName sm01.emicaoms.test

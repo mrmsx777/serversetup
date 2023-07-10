@@ -1,0 +1,31 @@
+Path;User;AccessRights;AccessType
+E:\Partages\AFDoc;emicaoms\Admins du domaine;FullControl;Allow
+E:\Partages\AFDoc;NT AUTHORITY\System;FullControl;Allow
+E:\Partages\AFDoc;emicaoms\GSDL_SM001_AFDoc_Deny;FullControl;Deny
+E:\Partages\AFDoc;emicaoms\GSDL_SM001_AFDoc_Lect;ReadAndExecute;Allow
+E:\Partages\AFDoc;emicaoms\GSDL_SM001_AFDoc_Mod;Modify;Allow
+E:\Partages\AMDoc;emicaoms\Admins du domaine;FullControl;Allow
+E:\Partages\AMDoc;NT AUTHORITY\System;FullControl;Allow
+E:\Partages\AMDoc;emicaoms\GSDL_SM001_AMDoc_Deny;FullControl;Deny
+E:\Partages\AMDoc;emicaoms\GSDL_SM001_AMDoc_Lect;ReadAndExecute;Allow
+E:\Partages\AMDoc;emicaoms\GSDL_SM001_AMDoc_Mod;Modify;Allow
+E:\Partages\ASDoc;emicaoms\Admins du domaine;FullControl;Allow
+E:\Partages\ASDoc;NT AUTHORITY\System;FullControl;Allow
+E:\Partages\ASDoc;emicaoms\GSDL_SM001_ASDoc_Deny;FullControl;Deny
+E:\Partages\ASDoc;emicaoms\GSDL_SM001_ASDoc_Lect;ReadAndExecute;Allow
+E:\Partages\ASDoc;emicaoms\GSDL_SM001_ASDoc_Mod;Modify;Allow
+E:\Partages\EUDoc;emicaoms\Admins du domaine;FullControl;Allow
+E:\Partages\EUDoc;NT AUTHORITY\System;FullControl;Allow
+E:\Partages\EUDoc;emicaoms\GSDL_SM001_EUDoc_Deny;FullControl;Deny
+E:\Partages\EUDoc;emicaoms\GSDL_SM001_EUDoc_Lect;ReadAndExecute;Allow
+E:\Partages\EUDoc;emicaoms\GSDL_SM001_EUDoc_Mod;Modify;Allow
+E:\Partages\OCDoc;emicaoms\Admins du domaine;FullControl;Allow
+E:\Partages\OCDoc;NT AUTHORITY\System;FullControl;Allow
+E:\Partages\OCDoc;emicaoms\GSDL_SM001_OCDoc_Deny;FullControl;Deny
+E:\Partages\OCDoc;emicaoms\GSDL_SM001_OCDoc_Lect;ReadAndExecute;Allow
+E:\Partages\OCDoc;emicaoms\GSDL_SM001_OCDoc_Mod;Modify;Allow
+E:\Partages\PresDoc;emicaoms\Admins du domaine;FullControl;Allow
+E:\Partages\PresDoc;NT AUTHORITY\System;FullControl;Allow
+E:\Partages\PresDoc;emicaoms\GSDL_SM001_PresDoc_Deny;FullControl;Deny
+E:\Partages\PresDoc;emicaoms\GSDL_SM001_PresDoc_Lect;ReadAndExecute;Allow
+E:\Partages\PresDoc;emicaoms\GSDL_SM001_PresDoc_Mod;Modify;Allow

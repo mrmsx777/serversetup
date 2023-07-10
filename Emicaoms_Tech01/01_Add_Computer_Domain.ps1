@@ -1,0 +1,1 @@
+﻿Add-Computer -NewName Tech01 -DomainName emicaoms.test -Credential Administrateur -Restart
